@@ -34,7 +34,7 @@ A análise foi utilizada inicialmente para investigar o comportamento operaciona
 
 Posteriormente, o fator de capacidade não foi mantido como variável principal do pipeline final, uma vez que o trabalho passou a utilizar diretamente a série temporal de geração fotovoltaica.
 
-**Notebook:** `EXP_01_capacity_factor_station_distance.ipynb`
+**Notebook:** `EXP_01_capacity_factor_station_distance.ipynb.ipynb`
 
 ---
 
@@ -54,7 +54,7 @@ A estação de Dracena apresentou lacunas relevantes em algumas variáveis, espe
 
 A estação de Valparaíso apresentou elevada disponibilidade de dados e foi considerada como fonte auxiliar em etapas posteriores do pré-processamento.
 
-**Notebook:** `EXP_02_meteorological_data_quality.ipynb`
+**Notebook:** `EXP_03_meteorological_data_quality.ipynb`
 
 ---
 
@@ -74,7 +74,7 @@ Essa análise foi realizada para verificar se as restrições operacionais dever
 
 Após a exploração inicial e a definição do escopo do trabalho, os dados de constrained-off não foram incorporados como variável do dataset final utilizado na modelagem.
 
-**Notebook:** `EXP_03_constrained_off_analysis.ipynb`
+**Notebook:** `EXP_02_constrained_off_analysis.ipynb`
 
 ---
 
