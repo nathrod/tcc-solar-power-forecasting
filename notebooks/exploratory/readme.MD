@@ -83,5 +83,3 @@ Após a exploração inicial e a definição do escopo do trabalho, os dados de 
 As análises desta pasta contribuíram para a definição do escopo utilizado nas etapas seguintes do projeto.
 
 O estudo passou a concentrar-se no **Conjunto Fotovoltaico Dracena**
-
-![Resumo das análises exploratórias](images/exploratory_summary.png)
