@@ -401,8 +401,6 @@ in photovoltaic generation forecasting.
 Information Systems  
 University of Campinas — UNICAMP
 
-GitHub: [nathrod](https://github.com/nathrod)
-
 ## License
 
 The source code can be released under an open-source license such as MIT.
