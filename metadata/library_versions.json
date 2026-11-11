@@ -1,0 +1,8 @@
+{
+  "python": "3.13.18 (main, Oct 26 2026, 15:28:15) [GCC 13.3.0]",
+  "scikit-learn": "1.6.1",
+  "xgboost": "3.4.1",
+  "joblib": "1.6.0",
+  "pandas": "2.2.3",
+  "numpy": "2.4.6"
+}

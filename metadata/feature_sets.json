@@ -1,0 +1,45 @@
+{
+  "E1": [
+    "geracao_t",
+    "geracao_t-1",
+    "geracao_t-2",
+    "geracao_t-3",
+    "geracao_t-24",
+    "hour_sin",
+    "hour_cos",
+    "day_of_year_sin",
+    "day_of_year_cos"
+  ],
+  "E2": [
+    "geracao_t",
+    "geracao_t-1",
+    "geracao_t-2",
+    "geracao_t-3",
+    "geracao_t-24",
+    "hour_sin",
+    "hour_cos",
+    "day_of_year_sin",
+    "day_of_year_cos",
+    "radiacao_t",
+    "radiacao_t-1",
+    "radiacao_t-2"
+  ],
+  "E3": [
+    "geracao_t",
+    "geracao_t-1",
+    "geracao_t-2",
+    "geracao_t-3",
+    "geracao_t-24",
+    "hour_sin",
+    "hour_cos",
+    "day_of_year_sin",
+    "day_of_year_cos",
+    "radiacao_t",
+    "radiacao_t-1",
+    "radiacao_t-2",
+    "temperatura_t",
+    "umidade_t",
+    "pressao_t",
+    "precipitacao_t"
+  ]
+}
